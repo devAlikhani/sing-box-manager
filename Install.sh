@@ -402,7 +402,6 @@ with_quic,\
 with_grpc,\
 with_dhcp,\
 with_wireguard,\
-with_shadowsocksr,\
 with_ech,\
 with_utls,\
 with_reality_server,\
